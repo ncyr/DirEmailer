@@ -1,2 +1,1 @@
-"# DirEmailer" 
-"# DirEmailer" 
+This powershell script will send the contents of a directory specified as attachments via mail relay using an smtp service such as mailgun or sendgrid. Make sure you edit the ps1 file to set your smtp address, username, and password before running. This would usually be called upon by a scheduled task.
